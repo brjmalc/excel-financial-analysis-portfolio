@@ -1,6 +1,6 @@
 ![Brittany Malcolm — Excel Finance Portfolio](images/portfolio_header.svg)
 
-<p align="center"><a href="#featured-workbooks">Explore the workbooks</a> · <a href="#model-notes">Model notes</a></p>
+<p align="center"><a href="#featured-workbooks">Explore the workbooks</a> · <a href="#contact">Contact</a></p>
 
 ## Introduction
 
@@ -27,16 +27,6 @@ These images are generated from the workbook data and provide a quick view of se
 
 ![Self-pay balances by location](images/self_pay_balances.png)
 
-## Model notes
-
-- The sales model excludes the V2100.35 transaction and lookup entry. Revenue after removal is $1,460,803.43.
-- The sales headline reports all locations. Pivot charts provide filtered views.
-- Self-pay aging uses the editable report date and 60-day terms. The balances are the supplied snapshot.
-- Insurance recovery is recovered dollars divided by submitted dollars.
-- Tracker outstanding amounts deduct copay and payments from billed amounts, with a minimum of zero. Confirm this convention for any operational adaptation.
-- New status columns beside the original tables should be filled down when adding records.
-- The sales workbook was refreshed in Excel for the web and its revenue, location, and monthly totals were verified. The other workbooks still require a refresh of their saved pivot and chart displays.
-
 ## Repository layout
 
 ```text
@@ -49,3 +39,10 @@ github-excel-portfolio/
 ## Skills demonstrated
 
 Excel modeling · sales analysis · receivables monitoring · lookup maintenance · PivotTables · dashboard reporting · payment reconciliation
+
+## Contact
+
+I welcome conversations about Financial Analyst opportunities focused on asset management, portfolio analysis, investment risk, and reporting.
+
+- **GitHub:** [brjmalc](https://github.com/brjmalc)
+- **LinkedIn:** [Brittany Malcolm](https://www.linkedin.com/in/brittanyjmalcolm/)
